@@ -1,0 +1,108 @@
+#video1 {
+  display: none;
+  position: absolute;
+  left: 200px;
+  top: 350px;
+  border: 1px solid #50749a;
+}
+#video2 {
+  display: none;
+  position: absolute;
+  left: 200px;
+  top: 550px;
+  border: 1px solid #50749a;
+}
+#video3 {
+  display: none;
+  position: absolute;
+  left: 200px;
+  top: 750px;
+  border: 1px solid #50749a;
+}
+#video4 {
+  display: none;
+  position: absolute;
+  left: 200px;
+  top: 950px;
+  border: 1px solid #50749a;
+}
+
+#yVideo1 {
+  display: none;
+  position: absolute;
+  left: 100px;
+  top: 350px;
+  border: 1px solid #50749a;
+}
+#yVideo2 {
+  display: none;
+  position: absolute;
+  left: 350px;
+  top: 600px;
+  border: 1px solid #50749a;
+}
+#yVideo3 {
+  display: none;
+  position: absolute;
+  left: 100px;
+  top: 850px;
+  border: 1px solid #50749a;
+}
+
+#eVideo1 {
+  display: none;
+  position: absolute;
+  left: 850px;
+  top: 350px;
+  border: 1px solid #50749a;
+}
+#eVideo2 {
+  display: none;
+  position: absolute;
+  left: 1100px;
+  top: 600px;
+  border: 1px solid #50749a;
+}
+#eVideo3 {
+  display: none;
+  position: absolute;
+  left: 850px;
+  top: 850px;
+  border: 1px solid #50749a;
+}
+
+#spotifyHappy {
+  display: none;
+  position: absolute;
+  left: 100px;
+  top: 340px;
+  border: 6.5px solid #63C8E5;
+}
+#spotifyCalm {
+  display: none;
+  position: absolute;
+  left: 930px;
+  top: 340px;
+  border: 6.5px solid #63C8E5;
+}
+#spotifyMed {
+  display: none;
+  position: absolute;
+  left: 930px;
+  top: 770px;
+  border: 6.5px solid #63C8E5;
+}
+#spotifyCon {
+  display: none;
+  position: absolute;
+  left: 350px;
+  top: 730px;
+  border: 6.5px solid #63C8E5;
+}
+
+body {
+  background-image: url("https://cdn.glitch.com/4ca366f3-f7ca-46f6-81f2-71131afbd35b%2F1.jpg?v=1595881145464");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
